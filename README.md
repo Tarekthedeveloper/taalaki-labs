@@ -28,7 +28,7 @@ src/
 │   ├── Footer.jsx
 │   ├── Home.jsx
 │   ├── Products.jsx
-│   ├── Services.jsx   (Routine Finder)
+│   ├── Routine.jsx   (Routine Finder)
 │   ├── About.jsx
 │   └── Contact.jsx
 ├── App.jsx
@@ -46,9 +46,6 @@ src/
 * The contact form and newsletter show a confirmation but do not send data yet.
 * Checkout is a placeholder (no payment gateway).
 * The shopping bag resets when you leave the Products page.
-
-## 📄 Documentation
-The full project report (system design, technologies, key code) is in `docs/TAALAKI_Project_Report.pdf`.
 
 <h2 align="center">📸 Application Preview</h2>
 
