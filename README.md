@@ -4,7 +4,7 @@ A premium, responsive, dark-themed luxury skincare and cosmetics e-commerce web 
 
 ## 🚀 Deployment & Links
 * **Production Live URL:** https://taalaki-skin-labs.pages.dev/
-* **Source Code Repository:** https://github.com/tarekthedeveloper/taalaki-skin-labs
+* **Source Code Repository:** [https://github.com/tarekthedeveloper/taalaki-skin-lab](https://github.com/Tarekthedeveloper/taalaki-labs)
 * **Edge Hosting Infrastructure:** Cloudflare Pages Network (Global CDN Optimization)
 
 ## ✨ Features
