@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # TAALAKI Prestige Skin Labs — E-Commerce Application
 
 A premium, responsive, dark-themed luxury skincare and cosmetics e-commerce web application built with React and Tailwind CSS. It has five pages: Home, Products, Routine Finder, About and Contact.
 
 ## 🚀 Deployment & Links
 * **Production Live URL:** https://taalaki-skin-labs.pages.dev/
-* **Source Code Repository:** https://github.com/tarekthedeveloper/taalaki-skin-labs
+* **Source Code Repository:** https://github.com/tarekthedeveloper/taalaki-labs
 * **Edge Hosting Infrastructure:** Cloudflare Pages Network (Global CDN Optimization)
 
 ## ✨ Features
@@ -29,7 +28,7 @@ src/
 │   ├── Footer.jsx
 │   ├── Home.jsx
 │   ├── Products.jsx
-│   ├── Services.jsx   (Routine Finder)
+│   ├── Routine.jsx   (Routine Finder)
 │   ├── About.jsx
 │   └── Contact.jsx
 ├── App.jsx
@@ -37,7 +36,7 @@ src/
 ```
 
 ## 📦 Local Installation Guide
-1. Clone the repository: `git clone https://github.com/tarekthedeveloper/taalaki-skin-labs.git`
+1. Clone the repository: `git clone https://github.com/tarekthedeveloper/taalaki-labs.git`
 2. Move into the project folder: `cd taalaki-skin-labs`
 3. Install code modules: `npm i`
 4. Launch local developer server: `npm start` (use `npm run dev` if the project was created with Vite)
@@ -48,14 +47,8 @@ src/
 * Checkout is a placeholder (no payment gateway).
 * The shopping bag resets when you leave the Products page.
 
-## 📄 Documentation
-The full project report (system design, technologies, key code) is in `docs/TAALAKI_Project_Report.pdf`.
-
 <h2 align="center">📸 Application Preview</h2>
 
 <p align="center">
   <img src="info.png" width="900">
 </p>
-=======
-# taalaki-labs
->>>>>>> b7eb60c24926449d0eb8dea815f9469631653920
