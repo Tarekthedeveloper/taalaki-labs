@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TAALAKI Prestige Skin Labs — E-Commerce Application
 
 A premium, responsive, dark-themed luxury skincare and cosmetics e-commerce web application built with React and Tailwind CSS. It has five pages: Home, Products, Routine Finder, About and Contact.
@@ -55,3 +56,6 @@ The full project report (system design, technologies, key code) is in `docs/TAAL
 <p align="center">
   <img src="info.png" width="900">
 </p>
+=======
+# taalaki-labs
+>>>>>>> b7eb60c24926449d0eb8dea815f9469631653920
